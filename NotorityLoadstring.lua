@@ -14,4 +14,4 @@ grabsafe = true
 safeitem = {'JewelCrown','RingBox','Money','Coke'}
  
 --loadstring
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CallMeChin/CallMeChin.github.io/main/roblox%20scripts/Notoriety%20Auto%20Farm", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahonor25/GarScript/main/NotorityAutoFarmScript.lua", true))()
